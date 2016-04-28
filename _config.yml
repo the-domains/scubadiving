@@ -1,0 +1,28 @@
+name: ScubaDiving
+favicon: null
+layout_spectrum: 0.9463859149254858
+typography_spectrum: 0.3892141997348517
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6433375820051879
+  lightness: 0.27134749479591846
+  saturation: 0.5642246147617698
+  rhythmicContrast: 0.037755182944238186
+purpose: []
